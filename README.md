@@ -1,7 +1,7 @@
 
 # Olá, eu sou André Morais 👋
 
-Sou um desenvolvedor Python que gosta de aprender novas tecnologias e criar projetos interessantes. Tenho experiência com Django, um framework web poderoso e versátil que permite criar sites dinâmicos e interativos.
+Desenvolvedor JAVA/SPRING, PYTHON/DJANGO MYSQL/POSTGRE.
 
 ## Meus projetos 🚀
 
