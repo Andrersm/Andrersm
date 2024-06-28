@@ -7,8 +7,9 @@ Sou um desenvolvedor Python que gosta de aprender novas tecnologias e criar proj
 
 Tenho alguns projetos no meu repositório do GitHub que você pode conferir. Aqui estão dois deles que eu gostaria de destacar:
 
+- [Ntt-javaSpringApi](https://github.com/Andrersm/Ntt-javaSpringApi):Esta API de Catálogo de Filmes é parte dos desafios propostos pela Academia da NTT Data de CX. Ela permite aos usuários consultar informações detalhadas sobre filmes, atores, diretores, entre outros. Atualmente, a API suporta operações de busca por nome de filme, mas futuras atualizações expandirão suas funcionalidades para incluir mais opções de busca e manipulação de dados.
+
 - [AgioDjango](https://github.com/Andrersm/AgioDjango): Um gerenciador de empréstimos feito em Python/Django. Você pode criar contatos e a partir deles criar empréstimos, que depois serão quebrados em parcelas, que podem ser acompanhadas e filtradas para ver suas datas de vencimento.
-- [DjangoBlog](https://github.com/Andrersm/DjangoBlog): Um blog em Django que tem sua ideia de ser simples, onde você pode criar postagens e também páginas novas para o site, criando botões no menu tudo diretamente do ADMIN do Django, sem ter que escrever linhas de códigos, apenas preenchendo os locais denominados.
 
 ## Meu LinkedIn 💼
 
